@@ -90,7 +90,8 @@ print(hour_mean_trend_df)
 
 
 # plot number of daily orders (2021)
-st.header('Dicoding Collection Dashboard :sparkles:')
+st.header('Bike Sharing Analysis :sparkles:')
+st.subheader('By: Farid Nubaili')
 st.subheader('Daily Orders')
 
 # registered dan casual
